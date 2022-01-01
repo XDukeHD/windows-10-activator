@@ -12,7 +12,7 @@ Para usar o ativador é bem Simples, siga os passos a Seguir:
 
 - 1- Faça download do Arquivo "Licença Digital.cm"
 - 2- Renomeie o Arquivo de "Licença Digital.cm" para "Licença Digital.cmd" ele ira ficar como executavel .exe
-- 3- Clique com o botão direito em cima do arquivo e clique em " Executar como Administrador
+- 3- Clique com o botão direito em cima do arquivo e clique em "Executar como Administrador"
 - 4- Após aberto o ativador Siga os passos nele
 - 5- Pronto! Agora seu windows está atualizado! 
 
